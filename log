@@ -1,0 +1,2000 @@
+Traceback (most recent call last):
+  File "string_list2.py", line 21, in <module>
+    permutate([], int(sep[0]), sep[1], permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 12, in permutate
+    permutate(copy, length, string, permutates)
+  File "string_list2.py", line 8, in permutate
+    for s in string:
+TypeError: 'str' object is not iterable
